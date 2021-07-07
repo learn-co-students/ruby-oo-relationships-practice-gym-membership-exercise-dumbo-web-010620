@@ -3,6 +3,15 @@
 require_relative '../config/environment.rb'
 
 # test code goes here
+#------------Lifter ------------------#
+
+
+
+#------------Membership ------------------#
+
+
+
+#------------Gym------------------#
 
 binding.pry
 
